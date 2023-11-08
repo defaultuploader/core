@@ -1,0 +1,15 @@
+{
+  "name": "@default-uploader/core",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "unit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/defaultuploader"
+  },
+  "author": "Filipkin Denis",
+  "license": "ISC"
+}
